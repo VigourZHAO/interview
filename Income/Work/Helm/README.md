@@ -1,0 +1,21 @@
+ark-project：
+	chart：
+		project：
+			templates：
+				bin：
+					xxx.py.tpl
+					xxx.sh.tpl
+				etc：
+					xxx.tpl
+				configmap-xxx.yaml
+				deployment-xxx.yaml
+				job-xxx.yaml
+				ingress-xxx.yaml
+				pdb-xxx.yaml
+				secret-xxx.yaml
+				service-xxx.yaml
+			Chart.yaml
+			README.md
+			requirements.yaml
+			values.yaml
+	Makefile
