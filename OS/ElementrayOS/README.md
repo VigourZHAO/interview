@@ -21,4 +21,9 @@
             Qv2ray.v2.6.3.linux-x64.AppImage
         2. Config:
             chmod +x Qv2ray.v2.6.3.linux-x64.AppImage
-
+    6. tree:
+        sudo apt install tree
+    7. flameshot:
+        Step 1: sudo apt install flameshot
+        Step 2: 系统设置 -> 键盘 -> 快捷键 -> 自定义
+        Step 3: flameshot gui -> Alt + A
