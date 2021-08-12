@@ -27,3 +27,5 @@
         Step 1: sudo apt install flameshot
         Step 2: 系统设置 -> 键盘 -> 快捷键 -> 自定义
         Step 3: flameshot gui -> Alt + A
+    8. alias:
+        echo 'alias ..="cd .."' >>~/.bashrc
