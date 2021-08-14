@@ -1,0 +1,7 @@
+1. Git:
+    GitLens
+2. Golang:
+    Go
+    安装失败时：配置 Proxy
+        1. go env -w GOPROXY=https://goproxy.cn
+        2. go clean --modcache

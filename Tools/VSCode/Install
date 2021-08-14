@@ -1,0 +1,4 @@
+1. Download: 
+    Ref: https://code.visualstudio.com/download
+2. Install:
+    sudo apt install ./<file>.deb
