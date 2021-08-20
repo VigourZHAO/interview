@@ -10,3 +10,4 @@ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev
 问题排错： elementary os 6基于ubuntu 20.04，修改源文件 odin 为 focal.
     
 ```
+2. Neutron 知识点回顾
