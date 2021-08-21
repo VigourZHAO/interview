@@ -4,5 +4,5 @@ Open vSwitch: 即 OVS
         gre: 网桥中数据穿过的通道
         vxlan: 将网卡(Ethernet)封装成UDP，添加8字节的VXLAN header，区分不同的二层网络（8字节24比特标识，上限1600多万个）
         vlan: 直接在网卡(Ethernet)头部加4字节标记VLAN Tag。（4字节12比特标识，上限4000多个）
-        IPsec:
+        IPsec: 一个协议包，用来对 IP协议的分组进行加密和认证。（可以用来构建VPN）
     OVS 可以依靠自己的 MAC 学习实现二层数据包转发功能，如 Linux Bridge。
