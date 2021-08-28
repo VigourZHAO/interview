@@ -29,3 +29,6 @@
         Step 3: flameshot gui -> Alt + A
     8. alias:
         echo 'alias ..="cd .."' >>~/.bashrc
+    9. snapd:
+        sudo apt install snapd
+    
