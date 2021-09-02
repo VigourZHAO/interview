@@ -31,4 +31,5 @@
         echo 'alias ..="cd .."' >>~/.bashrc
     9. snapd:
         sudo apt install snapd
-    
+    10. httpie:
+        sudo apt install httpie
