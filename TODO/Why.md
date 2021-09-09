@@ -2,3 +2,4 @@
 2. 中间件：Memcached VS Redis
 3. 简述：浏览器中输入一个 URL 后，发生了什么？
 4. dmesg ?   DML ?  RADI ？ HAVE ?
+5. 认证方式？ jwt
