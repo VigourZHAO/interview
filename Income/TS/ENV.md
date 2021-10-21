@@ -17,3 +17,12 @@ ERROR: Fix
     sh build.sh 0.4
     cd /root/firstquadrant/fq-deploy
     sh dev-web-service.sh
+    
+    
+prod
+1. cd /home/zpx/SVN_Repo/firstquadrant/fq-webs/fqweb-server/docker/prod
+2. vi fqweb/Dockerfile
+3. docker-compose -f site-server.prod.yml builed up -d
+4. 
+5. docker exec -it prod_web sh
+6.  
